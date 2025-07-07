@@ -93,12 +93,13 @@ Vous pouvez ensuite :
 
   🛠️ Prérequis techniques
 
-✅ Projet en C conforme à la norme 42
-✅ Pas de fuites mémoire (sauf readline)
-✅ Gestion propre des erreurs
-✅ Utilisation de libft autorisée
-✅ Tests recommandés (non rendus) pour faciliter soutenance et peer-evaluation
-📂 Structure du projet
+✅ Projet en C conforme à la norme 42<br>
+✅ Pas de fuites mémoire (sauf readline)<br>
+✅ Gestion propre des erreurs<br>
+✅ Utilisation de libft autorisée<br>
+✅ Tests recommandés (non rendus) pour faciliter soutenance et peer-evaluation<br>
+
+📂 Structure du projet<br>
 
 
 minishell/ <br>
@@ -110,14 +111,14 @@ minishell/ <br>
 ├── builtins/ <br>
 └── includes/ <br>
 
-✅ Évaluation
+✅ Évaluation<br>
 
-✅ Respect de la norme
-✅ Pas de crash ni comportements indéfinis
-✅ Gestion mémoire sans fuites
-✅ Fonctionnalités obligatoires opérationnelles
-✅ Interaction fluide en mode interactif
-📌 Références utiles
+✅ Respect de la norme<br>
+✅ Pas de crash ni comportements indéfinis<br>
+✅ Gestion mémoire sans fuites<br>
+✅ Fonctionnalités obligatoires opérationnelles<br>
+✅ Interaction fluide en mode interactif<br>
+📌 Références utiles<br>
 
     Manuel Bash GNU
 

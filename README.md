@@ -19,10 +19,10 @@ Il est conçu pour renforcer la compréhension :
 🚀 Fonctionnalités
 Fonctionnalités principales :
 
-✅ Affichage d’un prompt en attente d’une commande
-✅ Gestion de l’historique des commandes
-✅ Recherche et exécution des exécutables via PATH, absolu ou relatif
-✅ Utilisation d’une unique variable globale uniquement pour stocker le signal reçu
+✅ Affichage d’un prompt en attente d’une commande<br>
+✅ Gestion de l’historique des commandes<br>
+✅ Recherche et exécution des exécutables via PATH, absolu ou relatif<br>
+✅ Utilisation d’une unique variable globale uniquement pour stocker le signal reçu<br>
 ✅ Gestion correcte des quotes :
 
     ' ' : désactive l’interprétation des métacaractères
@@ -39,8 +39,8 @@ Fonctionnalités principales :
 
     >> : redirection en mode append
 
-✅ Gestion des pipes |
-✅ Gestion des variables d'environnement ($VAR, $?)
+✅ Gestion des pipes |<br>
+✅ Gestion des variables d'environnement ($VAR, $?)<br>
 ✅ Gestion des signaux :
 
     Ctrl+C : affiche un nouveau prompt
@@ -75,7 +75,7 @@ Compiler avec :
 
 make
 
-🖥️ Utilisation
+🖥️ Utilisation<br>
 
 Lancer le shell avec :
 

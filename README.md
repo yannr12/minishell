@@ -101,7 +101,7 @@ Vous pouvez ensuite :
 📂 Structure du projet
 
 
-minishell/
+minishell/ <br>
 ├── Makefile <br>
 ├── minishell.c <br>
 ├── parsing/ <br>

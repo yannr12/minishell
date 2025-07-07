@@ -100,7 +100,9 @@ Vous pouvez ensuite :
 ✅ Tests recommandés (non rendus) pour faciliter soutenance et peer-evaluation
 📂 Structure du projet
 
+
 minishell/
+
 ├── Makefile
 ├── minishell.c
 ├── parsing/

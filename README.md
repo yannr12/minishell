@@ -2,7 +2,7 @@
 
     Créez votre propre petit Bash et comprenez les processus, signaux et descripteurs de fichiers.
 
-📚 Description
+## 📚 Description
 
 Minishell est une implémentation d'un shell en C permettant d'exécuter des commandes interactives comme Bash, gérer les pipes, redirections, variables d'environnement et signaux.
 
@@ -16,7 +16,7 @@ Il est conçu pour renforcer la compréhension :
 
     De l’architecture d’un interpréteur de commandes
 
-🚀 Fonctionnalités
+## 🚀 Fonctionnalités
 Fonctionnalités principales :
 
 ✅ Affichage d’un prompt en attente d’une commande<br>
@@ -65,7 +65,7 @@ Fonctionnalités principales :
 
     exit
 
-⚙️ Compilation
+## ⚙️ Compilation
 
 Un Makefile est fourni avec les règles :
 
@@ -75,7 +75,7 @@ Compiler avec :
 
 make
 
-🖥️ Utilisation<br>
+## 🖥️ Utilisation<br>
 
 Lancer le shell avec :
 
@@ -91,7 +91,7 @@ Vous pouvez ensuite :
 
     Tester les builtins (cd, pwd, export VAR=value, etc.)
 
-  🛠️ Prérequis techniques
+  ## 🛠️ Prérequis techniques
 
 ✅ Projet en C conforme à la norme 42<br>
 ✅ Pas de fuites mémoire (sauf readline)<br>
@@ -99,7 +99,7 @@ Vous pouvez ensuite :
 ✅ Utilisation de libft autorisée<br>
 ✅ Tests recommandés (non rendus) pour faciliter soutenance et peer-evaluation<br>
 
-📂 Structure du projet<br>
+## 📂 Structure du projet<br>
 
 
 minishell/ <br>
@@ -118,7 +118,8 @@ minishell/ <br>
 ✅ Gestion mémoire sans fuites<br>
 ✅ Fonctionnalités obligatoires opérationnelles<br>
 ✅ Interaction fluide en mode interactif<br>
-📌 Références utiles<br>
+
+## 📌 Références utiles<br>
 
     Manuel Bash GNU
 

@@ -103,12 +103,16 @@ Vous pouvez ensuite :
 
 minishell/
 
-├── Makefile
-├── minishell.c
+├── Makefile <br>
+├── minishell.c <br>
 ├── parsing/
+
 ├── execution/
+
 ├── utils/
+
 ├── builtins/
+
 └── includes/
 
 ✅ Évaluation

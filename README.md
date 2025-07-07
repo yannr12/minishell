@@ -1,6 +1,5 @@
 # Minishell
 
-    As beautiful as a shell
     Créez votre propre petit Bash et comprenez les processus, signaux et descripteurs de fichiers.
 
 📚 Description
